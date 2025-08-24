@@ -1,6 +1,9 @@
-# 👋 Hi, I'm Sarwan Verma  
+# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35px"> Hi, I'm Sarwan Verma  
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&color=00F700&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Problem+Solver;Cloud+%26+DevOps+Explorer;Lifelong+Learner)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&duration=3500&pause=1000&color=cyan&center=true&vCenter=true&width=750&lines=Sr.+Software+Developer;Working+as+a+Full+Stack+Developer;Building+Scalable+Web+Applications;Specialized+in+React.js+%26+Node.js;Passionate+about+Cloud+%26+Serverless+Solutions;Love+to+learn+new+stuffs..;Sarwan+Verma..&hearts;++)](https://git.io/typing-svg)
+
+
 
 ---
 
@@ -15,12 +18,7 @@
 
 ## 🛠️ Tech Stack  
 
-![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)  
-![Node.js](https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=node.js)  
-![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react)  
-![Laravel](https://img.shields.io/badge/Laravel-000?style=for-the-badge&logo=laravel)  
-![AWS](https://img.shields.io/badge/AWS-000?style=for-the-badge&logo=amazon-aws)  
-![Docker](https://img.shields.io/badge/Docker-000?style=for-the-badge&logo=docker)  
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) ![DynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=amazon-dynamodb&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white) ![Amazon RDS](https://img.shields.io/badge/Amazon%20RDS-527FFF?style=for-the-badge&logo=amazon-aws&logoColor=white) ![AWS SAM](https://img.shields.io/badge/AWS%20SAM-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white) ![AWS Lambda](https://img.shields.io/badge/AWS%20Lambda-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Amazon EC2](https://img.shields.io/badge/Amazon%20EC2-FF9900?style=for-the-badge&logo=amazon-ec2&logoColor=white) ![AWS S3](https://img.shields.io/badge/AWS%20S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)  
 
 ---
 
@@ -37,24 +35,9 @@
 
 ---
 
-## 🐍 Contribution Snake  
-
-![snake gif](https://github.com/sarwanuser/sarwanuser/blob/output/github-contribution-grid-snake.svg)
-
----
-
-## 🚀 Featured Projects  
-- [🔗 Project 1](https://github.com/sarwanuser/project1) — *Short description*  
-- [🔗 Project 2](https://github.com/sarwanuser/project2) — *Short description*  
-- [🔗 Project 3](https://github.com/sarwanuser/project3) — *Short description*  
-
----
-
 ## 🌐 Connect with Me  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sarwan-verma-36b52b135/)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://yourportfolio.com)  
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/sarwan-verma)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sarwan-verma-36b52b135/) [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://sarwandeveloper.com) [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/sarwan-verma)  
 
 ---
 

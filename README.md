@@ -1,21 +1,61 @@
-<h1 align="center"><b>Hi , I'm Sarwan Verma </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+# 👋 Hi, I'm Sarwan Verma  
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&color=00F700&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Problem+Solver;Cloud+%26+DevOps+Explorer;Lifelong+Learner)](https://git.io/typing-svg)
+
+---
+
+## 👨‍💻 About Me  
+- 🔭 Currently working at **Lava International Limited** as a Full Stack Developer  
+- 🌱 Exploring **cloud-native development & DevOps practices**  
+- 💬 Ask me about **JavaScript, Node.js, Laravel, React, AWS, Docker**  
+- 📫 Reach me at: **sarwandeveloper@gmail.com**  
+- ⚡ Fun fact: I love solving real-world problems with clean and efficient code.  
+
+---
+
+## 🛠️ Tech Stack  
+
+![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)  
+![Node.js](https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=node.js)  
+![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react)  
+![Laravel](https://img.shields.io/badge/Laravel-000?style=for-the-badge&logo=laravel)  
+![AWS](https://img.shields.io/badge/AWS-000?style=for-the-badge&logo=amazon-aws)  
+![Docker](https://img.shields.io/badge/Docker-000?style=for-the-badge&logo=docker)  
+
+---
+
+## 📊 GitHub Stats & Activity  
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Sarwan+Verma..&hearts;++;Self-taught+Full-Stack+Developer,;Sr.+Software+Engineering,;Love+to+learn+new+stuffs..<3"></a>
+  <img src="https://github-readme-stats.vercel.app/api?username=sarwanuser&show_icons=true&theme=radical" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=sarwanuser&theme=radical&hide_border=true" height="160" />
 </p>
 
-<br>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarwanuser&layout=compact&theme=radical" height="160" />
+</p>
 
-<!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
-![](https://github-readme-stats.vercel.app/api?username=josecabralesdev&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
+---
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=josecabralesdev&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+## 🐍 Contribution Snake  
 
-# 💻 Tech Stack
-<!-- Badges from https://github.com/Ileriayo/markdown-badges -->
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)\<br/>
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)<br/>
+![snake gif](https://github.com/sarwanuser/sarwanuser/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+## 🚀 Featured Projects  
+- [🔗 Project 1](https://github.com/sarwanuser/project1) — *Short description*  
+- [🔗 Project 2](https://github.com/sarwanuser/project2) — *Short description*  
+- [🔗 Project 3](https://github.com/sarwanuser/project3) — *Short description*  
+
+---
+
+## 🌐 Connect with Me  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sarwan-verma-36b52b135/)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://yourportfolio.com)  
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/sarwan-verma)  
+
+---
+
+⭐️ From [Sarwan Verma](https://github.com/sarwanuser)
